@@ -12,4 +12,8 @@ class CGDoIm: NSObject {
     static func showMsg() {
         print("show出精彩自我Lets go!")
     }
+    
+    static func showMsg1() {
+        print("show出精彩自我Lets do it!")
+    }
 }

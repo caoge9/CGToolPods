@@ -27,7 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		136FF8CCEBC3F7BFBF9B442D9795E995 /* Pods_CGToolPods_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CGToolPods_Tests.framework; path = "Pods-CGToolPods_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		136FF8CCEBC3F7BFBF9B442D9795E995 /* Pods_CGToolPods_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CGToolPods_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		177735F848BECA25C76054EDDF752BE7 /* CGToolPods-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CGToolPods-prefix.pch"; sourceTree = "<group>"; };
 		19DAE2E2045CEB8CE9281ACD5A5FD7E7 /* CGToolPods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CGToolPods.debug.xcconfig; sourceTree = "<group>"; };
 		1DB6E940849C4D4E18F8B43CA9FD5580 /* Pods-CGToolPods_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CGToolPods_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -35,20 +35,20 @@
 		2A1DE6A0903F2D7B0BE89D079EFD22DE /* Pods-CGToolPods_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CGToolPods_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		35272EB188EE0CD05ACC90A41E1EF957 /* Pods-CGToolPods_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CGToolPods_Tests-umbrella.h"; sourceTree = "<group>"; };
 		36F072BC4E02C7576070EF9CE08E2251 /* CGToolPods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CGToolPods.release.xcconfig; sourceTree = "<group>"; };
-		3CC364CCCCB2B3A599880D5C79270629 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		3CC364CCCCB2B3A599880D5C79270629 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		47F77C7B0FA945AF27D04CA84AAA70F8 /* CGToolPods-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "CGToolPods-Info.plist"; sourceTree = "<group>"; };
-		5258E7F9C401B2FA9048DA085944CE30 /* CGToolPods.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CGToolPods.framework; path = CGToolPods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5258E7F9C401B2FA9048DA085944CE30 /* CGToolPods.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CGToolPods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AF0C249832471A594878B8F9AB3B43B /* Pods-CGToolPods_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CGToolPods_Tests.modulemap"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		89A290C26C650B695357E28FF8311542 /* CGToolPods-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CGToolPods-umbrella.h"; sourceTree = "<group>"; };
 		8C3C74A188D8F58D604216E4FB862E21 /* Pods-CGToolPods_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CGToolPods_Tests-Info.plist"; sourceTree = "<group>"; };
 		93BE9C2EA2516DBDFDA6B4173823BA3B /* CGDoIm.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CGDoIm.swift; path = CGToolPods/Classes/CGDoIm.swift; sourceTree = "<group>"; };
 		976C7F402292CE2504D3B5EE8F16653A /* Pods-CGToolPods_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CGToolPods_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		9D440EB3B0F8530E5655CF48B54CEA01 /* CGToolPods.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = CGToolPods.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D440EB3B0F8530E5655CF48B54CEA01 /* CGToolPods.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = CGToolPods.podspec; sourceTree = "<group>"; tabWidth = 2; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		AD75C13DBE59B4E1F0C2AFA7CFD5037A /* Pods-CGToolPods_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CGToolPods_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		B6CAEE6165C63399E36A0AE44EB9AB8B /* Pods-CGToolPods_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CGToolPods_Tests-dummy.m"; sourceTree = "<group>"; };
-		E1935569839B3E242DADF2FC588C925E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		E1935569839B3E242DADF2FC588C925E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		F9DB509F235B5D32353AF718D5884F83 /* CGToolPods-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CGToolPods-dummy.m"; sourceTree = "<group>"; };
 		FEE191E2A305E185E8295A6B629D6D3B /* Pods-CGToolPods_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CGToolPods_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -460,8 +460,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};

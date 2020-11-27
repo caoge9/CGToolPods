@@ -1,0 +1,6 @@
+framework module CGToolPods {
+  umbrella header "CGToolPods-umbrella.h"
+
+  export *
+  module * { export * }
+}

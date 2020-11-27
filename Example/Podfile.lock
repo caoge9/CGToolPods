@@ -1,0 +1,16 @@
+PODS:
+  - CGToolPods (0.1.0)
+
+DEPENDENCIES:
+  - CGToolPods (from `../`)
+
+EXTERNAL SOURCES:
+  CGToolPods:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CGToolPods: 96d04a3837248624ba4fd780195ccc2f0b156f68
+
+PODFILE CHECKSUM: 8bf25c4ed0877e995621b0dfc6e7fda110b15f93
+
+COCOAPODS: 1.10.0

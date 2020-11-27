@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CGToolPods_Tests' do
+  pod 'CGToolPods', :path => '../'
+  
+  
+end
